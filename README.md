@@ -1,5 +1,5 @@
 
-![Logo](https://gdurl.com/ebhK)
+<img src="https://gdurl.com/ebhK" alt="Logo" width="1000"/>
 
 
 # Deep Vision v1.0
