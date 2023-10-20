@@ -1,0 +1,1 @@
+streamlit run App.py --server.maxUploadSize 10240000
